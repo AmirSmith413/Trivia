@@ -1,0 +1,490 @@
+{
+
+    "sinnoh":[
+        {
+            "q":"Pokemon Diamond and Pearl was released in",
+            "a1":"2006",
+            "a2":"2010",
+            "a3":"2016",
+            "a4":"2012",
+            "c":"2006"
+        },
+        {
+            "q":"Azelf is the bringer of?",
+            "a1":"Willpower",
+            "a2":"Emotion",
+            "a3":"Knowledge",
+            "a4":"Power",
+            "c":"Willpower"
+        },
+        {
+            "q":"Giratina represents?",
+            "a1":"Time",
+            "a2":"Destruction",
+            "a3":"Antimatter",
+            "a4":"Creation",
+            "c":"Antimatter"
+        },
+        {
+            "q":"How many more Pokemon were added to the Sinnoh Pokedex in Platinum?",
+            "a1":"59",
+            "a2":"25",
+            "a3":"63",
+            "a4":"37",
+            "c":"59"
+        },
+        {
+            "q":"Arceus came from?",
+            "a1":"An egg in the void",
+            "a2":"Someone else",
+            "a3":"A mystery",
+            "a4":"???",
+            "c":"An egg in the void"
+        },
+        {
+            "q":"Sinnoh is based on the Japanese island of?",
+            "a1":"Hokkaido",
+            "a2":"Okinawa",
+            "a3":"Osaka",
+            "a4":"Izu",
+            "c":"Hokkaido"
+        },
+        {
+            "q":"Cyrus wanted to?",
+            "a1":"Create a new world",
+            "a2":"Destroy the world",
+            "a3":"Cause discord throughout the region",
+            "a4":"Burgulary",
+            "c":"Create a new world"
+        },
+        {
+            "q":"Torterra is a Grass and?",
+            "a1":"Ground",
+            "a2":"Dragon",
+            "a3":"Ghost",
+            "a4":"Flying",
+            "c":"Ground"
+        },
+        {
+            "q":"Chimchar's Hidden Ability is?",
+            "a1":"Own Tempo",
+            "a2":"Immunity",
+            "a3":"Flash Fire",
+            "a4":"Iron Fist",
+            "c":"Iron Fist"
+        },
+        {
+            "q":"Arceus' signature move is?",
+            "a1":"Judgement",
+            "a2":"Roar of Time",
+            "a3":"Spacial Rend",
+            "a4":"Origin Pulse",
+            "c":"Judgement"
+        },
+        {
+            "q":"You could get the ancient trio(Dialga,Palkia,Giratina) in what area?",
+            "a1":"Mount Coronet",
+            "a2":"Solaceon Ruins",
+            "a3":"Spear Pillar",
+            "a4":"Snowpoint Temple",
+            "c":"Spear Pillar"
+        },
+        {
+            "q":"Why did you and Barry leave Twinleaf Town?",
+            "a1":"To see the red Gyrados",
+            "a2":"To become Pokemon masters",
+            "a3":"Help the professor out",
+            "a4":"Join Team Galactic",
+            "c":"To see the red Gyrados"
+        },
+        {
+            "q":"The Champion Cynthia uses all except one Pokemon.",
+            "a1":"Garchomp",
+            "a2":"Lucario",
+            "a3":"Roserade",
+            "a4":"Vespiquen",
+            "c":"Vespiquen"
+        },
+        {
+            "q":"What did the Diamond and Pearl Clans call Arceus?",
+            "a1":"Arceus",
+            "a2":"Almighty Sinnoh",
+            "a3":"God",
+            "a4":"",
+            "c":"Almighty Sinnoh"
+        },
+        {
+            "q":"Does Giratina still hold a grudge over Arceus banishing it?",
+            "a1":"Yes",
+            "a2":"No",
+            "a3":"Probably",
+            "a4":"IDK",
+            "c":"No"
+        },
+        {
+            "q":"Which legendary Pokemon has 2 Formes?",
+            "a1":"Dialga",
+            "a2":"Palkia",
+            "a3":"Giratina",
+            "a4":"All 3",
+            "c":"All 3"
+        },
+        {
+            "q":"Which city gives you the Underground Set?",
+            "a1":"Oreburgh",
+            "a2":"Eterna",
+            "a3":"Canalave",
+            "a4":"Veilstone",
+            "c":"Oreburgh"
+        },
+        {
+            "q":"What badge does Maylene give you?",
+            "a1":"Coal",
+            "a2":"Relic",
+            "a3":"Cobble",
+            "a4":"Fen",
+            "c":"Cobble"
+        },
+        {
+            "q":"Flint uses what type of Pokemon?",
+            "a1":"Bug",
+            "a2":"Fire",
+            "a3":"Ghost",
+            "a4":"Steel",
+            "c":"Fire"
+        },
+        {
+            "q":"The dimension where Giratina roams is called?",
+            "a1":"Distortion",
+            "a2":"Alternate",
+            "a3":"Other",
+            "a4":"2nd",
+            "c":"Distortion"
+        }
+    ],
+    "unova":[
+        {
+            "q":"Pokemon Black and White was released in?",
+            "a1":"2010",
+            "a2":"2012",
+            "a3":"2016",
+            "a4":"2017",
+            "c":"2010"
+        },
+        {
+            "q":"The largest city is called?",
+            "a1":"Nuvema",
+            "a2":"Nacrene",
+            "a3":"Castelia",
+            "a4":"Driftveil",
+            "c":"Castelia"
+        },
+        {
+            "q":"This pokemon likes to cook its own berries, even though they can get a little overdone.",
+            "a1":"Tepig",
+            "a2":"Reshiram",
+            "a3":"Snivy",
+            "a4":"Pansear",
+            "c":"Tepig"
+        },
+        {
+            "q":"Unova is similar to what real world city?",
+            "a1":"Detroit",
+            "a2":"Florida",
+            "a3":"New York",
+            "a4":"London",
+            "c":"New York"
+        },
+        {
+            "q":"Team Plasma's goal was to?",
+            "a1":"'Liberate' Pokemon",
+            "a2":"Robbery",
+            "a3":"Expand the ocean",
+            "a4":"Create a new universe",
+            "c":"'Liberate' Pokemon"
+        },
+        {
+            "q":"Reshiram, Zekrom, and Kyurem are known as the?",
+            "a1":"Swords of Justice",
+            "a2":"Tao Trio",
+            "a3":"Creation Trio",
+            "a4":"Forces of Nature",
+            "c":"Tao Trio"
+        },
+        {
+            "q":"What item is needed for Kyurem to become whole?",
+            "a1":"DNA Splicers",
+            "a2":"Reveal Glass",
+            "a3":"Burn Drive",
+            "a4":"Soul Dew",
+            "c":"DNA Splicers"
+        },
+        {
+            "q":"The Mythical Pokemon Victini is what number in the Unova Pokedex?",
+            "a1":"000",
+            "a2":"051",
+            "a3":"139",
+            "a4":"25",
+            "c":"000"
+        },
+        {
+            "q":"Which city has the Musical Theater?",
+            "a1":"Nimbasa",
+            "a2":"Nacrene",
+            "a3":"Striaton",
+            "a4":"Driftveil",
+            "c":"Nimbasa"
+        },
+        {
+            "q":"Striaton City has how many Gym Leaders?",
+            "a1":"1",
+            "a2":"2",
+            "a3":"3",
+            "a4":"4",
+            "c":"3"
+        },
+        {
+            "q":"Nimbasa City's Gym is designed as?",
+            "a1":"An amusement park",
+            "a2":"A mine",
+            "a3":"A plane",
+            "a4":"A power plant",
+            "c":"An amusement park"
+        },
+        {
+            "q":"Which Gym Leader accompanies Ash in the anime?",
+            "a1":"Cilan",
+            "a2":"Clay",
+            "a3":"Brycen",
+            "a4":"Drayden",
+            "c":"Cilan"
+        },
+        {
+            "q":"Axew is what type of Pokemon?",
+            "a1":"Dragon",
+            "a2":"Fire",
+            "a3":"Flying",
+            "a4":"Grass",
+            "c":"Dragon"
+        },
+        {
+            "q":"The Driftveil City Leader uses what type of Pokemon?",
+            "a1":"Steel",
+            "a2":"Rock",
+            "a3":"Ground",
+            "a4":"Fire",
+            "c":"Ground"
+        },
+        {
+            "q":"Skyla gives you what badge?",
+            "a1":"Jet",
+            "a2":"Trio",
+            "a3":"Legend",
+            "a4":"Freeze",
+            "c":"Jet"
+        },
+        {
+            "q":"Unova has the most?",
+            "a1":"Cities",
+            "a2":"Pokemon",
+            "a3":"Activities",
+            "a4":"Gyms",
+            "c":"Cities"
+        },
+        {
+            "q":"Unova has how many Victory Roads?",
+            "a1":"1",
+            "a2":"2",
+            "a3":"3",
+            "a4":"4",
+            "c":"2"
+        },
+        {
+            "q":"Which of these are false?",
+            "a1":"Unova is the only region without a Rock type Gym",
+            "a2":"Unova is the only region with gyms that specialize in the same type",
+            "a3":"Unova is tied to Galar with the most Gym Leaders",
+            "a4":"Opelucid City only has one Gym Leader",
+            "c":"Opelucid City only has one Gym Leader"
+        },
+        {
+            "q":"Legends say Zekrom sided with the brother who sought?",
+            "a1":"Ideals",
+            "a2":"Truth",
+            "a3":"Power",
+            "a4":"Courage",
+            "c":"Ideals"
+        },
+        {
+            "q":"The Forces of Nature have how many Pokemon?",
+            "a1":"1",
+            "a2":"2",
+            "a3":"3",
+            "a4":"4",
+            "c":"4"
+        }
+    ],
+    "kalos":[
+        {
+            "q":"Pokemon X and Y was released in?",
+            "a1":"2013",
+            "a2":"2020",
+            "a3":"2004",
+            "a4":"2012",
+            "c":"2013"
+        },
+        {
+            "q":"The Kalos region is inspired by what irl location?",
+            "a1":"France",
+            "a2":"Japan",
+            "a3":"Spain",
+            "a4":"England",
+            "c":"France"
+        },
+        {
+            "q":"Which of the starters do you pick on your journey?",
+            "a1":"Chespin",
+            "a2":"Charmander",
+            "a3":"Piplup",
+            "a4":"Pikachu",
+            "c":"Chespin"
+        },
+        {
+            "q":"The gym leader Clemont, uses what type of Pokemon?",
+            "a1":"Grass",
+            "a2":"Electric",
+            "a3":"Fairy",
+            "a4":"Steel",
+            "c":"Electric"
+        },
+        {
+            "q":"what Mega Evolution is not in Pokemon X and Y?",
+            "a1":"Lucario",
+            "a2":"Slowbro",
+            "a3":"Mewtwo",
+            "a4":"Tyranitar",
+            "c":"Lucario"
+        },
+        {
+            "q":"The villians of this region are called Team ______.",
+            "a1":"Rocket",
+            "a2":"Plasma",
+            "a3":"Galactic",
+            "a4":"Flare",
+            "c":"Flare"
+        },
+        {
+            "q":"Team Flare's leader is named?",
+            "a1":"Giovanni",
+            "a2":"Lysandre",
+            "a3":"Ramos",
+            "a4":"Malva",
+            "c":"Lysandre"
+        },
+        {
+            "q":"Korrina is the gym leader of what city?",
+            "a1":"Santalune City",
+            "a2":"Shalour City",
+            "a3":"Cyllage City",
+            "a4":"Luminose City",
+            "c":"Shalour City"
+        },
+        {
+            "q":"Which Pokemon likes to eat twigs?",
+            "a1":"Fennekin",
+            "a2":"Magmar",
+            "a3":"Torkoal",
+            "a4":"Charmander",
+            "c":"Fennekin"
+        },
+        {
+            "q":"Zygarde has how many formes?",
+            "a1":"1",
+            "a2":"2",
+            "a3":"3",
+            "a4":"4",
+            "c":"3"
+        },
+        {
+            "q":"Mega Evolution requires a Mega Stone and?",
+            "a1":"Z-Ring",
+            "a2":"Key Stone",
+            "a3":"Pokewalker",
+            "a4":"Rotom Phone",
+            "c":"Key Stone"
+        },
+        {
+            "q":"Which of these Pokemon can only be found on Pokemon X?",
+            "a1":"Pinsir",
+            "a2":"Heracross",
+            "a3":"Cloyster",
+            "a4":"Tyranitar",
+            "c":"Pinsir"
+        },
+        {
+            "q":"Which of these Pokemon gain a type when Mega-Evolved?",
+            "a1":"Gengar",
+            "a2":"Blastoise",
+            "a3":"Alakazam",
+            "a4":"Ampharos",
+            "c":"Ampharos"
+        },
+        {
+            "q":"The feature that is used to grow stronger bonds with your Pokemon is called?",
+            "a1":"Super Training",
+            "a2":"Pokemon-Amie",
+            "a3":"Sky Battles",
+            "a4":"Gyms",
+            "c":"Pokemon-Amie"
+        },
+        {
+            "q":"Which of the legendary Pokemon of this region represents order?",
+            "a1":"Xerneas",
+            "a2":"Yvetal",
+            "a3":"Zygarde",
+            "a4":"Kyogre",
+            "c":"Zygarde"
+        },
+        {
+            "q":"Which type was added to Pokemon X and Y?",
+            "a1":"Water",
+            "a2":"Fairy",
+            "a3":"Dark",
+            "a4":"Flying",
+            "c":"Fairy"
+        },
+        {
+            "q":"The Fairy type is immune to what type?",
+            "a1":"Fire",
+            "a2":"Dragon",
+            "a3":"Poison",
+            "a4":"Steel",
+            "c":"Dragon"
+        },
+        {
+            "q":"The special gimmick used in Pokemon X and Y is called",
+            "a1":"Mega Evolution",
+            "a2":"Dynamaxing",
+            "a3":"Terastallizing",
+            "a4":"Z-Moves",
+            "c":"Mega Evolution"
+        },
+        {
+            "q":"Only 2 Pokemon have 2 different Mega Evolutions: Mewtwo and _______",
+            "a1":"Slowbro",
+            "a2":"Charizard",
+            "a3":"Furfrou",
+            "a4":"Steelix",
+            "c":"Charizard"
+        },
+        {
+            "q":"What city from the Kalos region is a stage in Super Smash Bros.?",
+            "a1":"Luminose City",
+            "a2":"Vaniville City",
+            "a3":"Pallet Town",
+            "a4":"Cyllage City",
+            "c":"Luminose City"
+        }
+    ]
+        
+}

@@ -1,0 +1,41 @@
+body{
+    background: url(/images/pokemon.jpg);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.banner{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    border: 0;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.rules{
+    font-size: 75px;
+    background-color: black;
+    color: white;
+}
+.p{
+    font-size: 50px;
+    background-color: black;
+    color: white;
+}
+.instructionText{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+.replayBtn{
+    justify-content: center;
+    display: flex;
+}
+.total{
+    font-size: 50px;
+    background-color: black;
+    color: white;
+}
